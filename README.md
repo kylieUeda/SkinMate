@@ -1,1 +1,1 @@
-# skinMate
+# beautyMate
