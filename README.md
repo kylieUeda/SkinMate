@@ -3,11 +3,13 @@
 Japanese follows:
 
 Overall, I used ChatGPT for the guidance because this is my first time to work on the project. Firstly, I put my vision of this project into the ChatGPT and ask to provide how I should proceed to achieve this project step by step.
+
 このプロジェクトは私が取り組む初めてのものだったので、ChatGPTを使用しています。主な利用目的はどのようにプロジェクトを進めていくかを参考にするためのガイドです。
 
 STEP 1: Setting up
-To begin with, I set up the virtual environment on Python to prepare a better setting for this project.
-はじめにこのプロジェクトを進めていく上での仮想環境を準備しました。
+   To begin with, I set up the virtual environment on Python to prepare a better setting for this project.
+   はじめにこのプロジェクトを進めていく上での仮想環境を準備しました。
+   
  - Takeaways: 
     Of course I have heard of the virtual environment, but I had no idea on why we need it and how it could affect on us or projects. I learned that:
     - If we don't make the env file or don't use it, python in your device or the whole system will be used. Also, it could reject you to use some libraries you installed for the project such as pandas.
