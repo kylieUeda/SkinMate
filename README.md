@@ -25,4 +25,9 @@ STEP 1: Setting up
 
 
 
+## About dataset
 
+This repository does not include dataset due to its size. 
+So visit the link below and download it by yourself. Then put the dataset into "dataset/"
+
+- [Sephora Products and Skincare Reviews (Kaggle)](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
