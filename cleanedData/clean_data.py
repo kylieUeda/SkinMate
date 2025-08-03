@@ -1,4 +1,7 @@
 import pandas as pd
 
-# rean csv file
-df = pd.read_csv("product_info.csv")
+# read csv file
+df = pd.read_csv("dataset/product_info.csv")
+
+# Get the info
+print(df.info())
